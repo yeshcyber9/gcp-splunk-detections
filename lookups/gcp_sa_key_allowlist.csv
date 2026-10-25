@@ -1,0 +1,2 @@
+principal,allowed
+terraform@example-project.iam.gserviceaccount.com,true
